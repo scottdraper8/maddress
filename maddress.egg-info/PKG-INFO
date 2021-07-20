@@ -1,12 +1,12 @@
 Metadata-Version: 2.1
 Name: maddress
-Version: 1.0.0b1
+Version: 1.0.0a0
 Summary: Testing installation of Package
 Home-page: https://github.com/scottdraper8/maddress
 Author: Scott Draper
 Author-email: draper.tscott@gmail.com
 License: MIT
-Download-URL: https://github.com/scottdraper8/maddress/archive/refs/tags/v1.0.0-beta1.tar.gz
+Download-URL: https://github.com/scottdraper8/maddress/archive/refs/tags/v1.0.0-alpha.tar.gz
 Description: # Overview 
         This package provides developers with handy tools for email address data cleaning
 Keywords: pypi,maddress,email,phone number,address,geolocation,data cleaning
