@@ -1,0 +1,8 @@
+README.md
+setup.cfg
+setup.py
+maddress/__init__.py
+maddress.egg-info/PKG-INFO
+maddress.egg-info/SOURCES.txt
+maddress.egg-info/dependency_links.txt
+maddress.egg-info/top_level.txt
