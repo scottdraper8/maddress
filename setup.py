@@ -5,9 +5,9 @@ with open("README.md", "r", encoding="utf-8") as fh:
     long_description = fh.read()
 
 setuptools.setup(
-    name='maddress',                           # should match the package folder
-    packages=['maddress'],                     # should match the package folder
-    version='1.0.0',                                # important for updates
+    name='maddress',                                # should match the package folder
+    packages=['maddress'],                          # should match the package folder
+    version='1.0.0-beta',                           # important for updates
     license='MIT',                                  # should match your chosen license
     description='Testing installation of Package',
     long_description=long_description,              # loads your README.md
@@ -15,7 +15,7 @@ setuptools.setup(
     author='Scott Draper',
     author_email='draper.tscott@gmail.com',
     url='https://github.com/scottdraper8/maddress', 
-    install_requires=[],                  # list all packages that your package uses
+    install_requires=[],                            # list all packages that your package uses
     keywords=['pypi', 'maddress', 'email', 'phone number', 'address', 'geolocation', 'data cleaning'], #descriptive meta-data
     classifiers=[                                   # https://pypi.org/classifiers
         'Development Status :: 3 - Alpha',
@@ -28,5 +28,5 @@ setuptools.setup(
         'Programming Language :: Python :: 3.9',
     ],
     
-    download_url="https://github.com/scottdraper8/maddress/archive/refs/tags/v1.0.0.tar.gz",
+    download_url="https://github.com/scottdraper8/maddress/archive/refs/tags/v1.0.0-beta.tar.gz",
 ) 
